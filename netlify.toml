@@ -1,0 +1,4 @@
+[build]
+    funcions = "funcions"
+[dev]
+    publish = "dist"
